@@ -13,7 +13,6 @@ excludedWords = []
 
 defaultTopPrint = 50
 bookCheckSum = "2c89aeaa17956a955d789fb393934b9a"
-bookUrl = "http://www.gutenberg.org/files/2600/2600-0.txt"
 wordCount = 0
 
 def removePunctuation():
